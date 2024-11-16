@@ -23,4 +23,4 @@ This is the personal portfolio website of **Prashanth**, a passionate Web Develo
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/prashanth-portfolio.git
+   git clone https://github.com/Prashanth1416/prashanth-portfolio.git
